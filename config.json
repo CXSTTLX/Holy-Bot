@@ -1,0 +1,10 @@
+{
+    "token": "NjIzMTg0NDgyNDU5MDU4MjA2.XfrMUw.ayESAjtRiFqR856bFd-ahe5zSFQ",
+    "prefix": "!",
+    "file": ".js",
+    "separator": ".",
+    "routes":{
+        "EVENTS": "events",
+        "COMMANDS":"commands"
+    }
+}

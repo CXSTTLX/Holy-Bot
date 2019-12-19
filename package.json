@@ -1,0 +1,16 @@
+{
+  "name": "holy_bot",
+  "version": "0.0.1",
+  "description": "holy bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hicarus",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "enmap": "^5.2.3",
+    "fs": "0.0.1-security"
+  }
+}
