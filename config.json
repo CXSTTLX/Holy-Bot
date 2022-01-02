@@ -1,7 +1,8 @@
 {
-    "token": "NjIzMTg0NDgyNDU5MDU4MjA2.XfrMUw.ayESAjtRiFqR856bFd-ahe5zSFQ",
-    "prefix": "!",
+    "token": "OTI3MjYwNDAxNzQwMTU2OTM4.YdHoiw.XyvSYfY5SF9WQUsdsG0eeDLV0iU",
+    "prefix": "&",
     "file": ".js",
+    "riot_api": "RGAPI-0d410587-4009-4139-800f-6dea838ae799",
     "separator": ".",
     "routes":{
         "EVENTS": "events",
