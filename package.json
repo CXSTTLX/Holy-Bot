@@ -14,7 +14,7 @@
     "discord.js": "github:discordjs/discord.js",
     "enmap": "^5.2.3",
     "fs": "0.0.1-security",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "string-table": "^0.1.5"
   }
 }
